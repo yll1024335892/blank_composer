@@ -21,3 +21,7 @@
 [gitattributes](https://git-scm.com/book/zh/v1/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git%E5%B1%9E%E6%80%A7)
 ######
 [phpunit](https://phpunit.de/)
+######
+## :red_circle:  注意
+######
+>	修改php_cs的VENDOR/PACKAGE的名称，NAME <EMAIL>  名称和邮箱
